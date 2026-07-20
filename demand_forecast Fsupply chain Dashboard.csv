@@ -1,0 +1,781 @@
+week,distributor_id,distributor_name,product_id,product_name,category,actual_demand,forecasted_demand,forecast_error_pct,over_under
+1/1/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,1028,1265,23.1,Over
+1/1/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1422,1031,27.5,Under
+1/1/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1240,1470,18.5,Over
+1/1/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1272,1573,23.7,Over
+1/1/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,632,405,35.9,Under
+1/1/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1164,1318,13.2,Over
+1/1/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1511,1192,21.1,Under
+1/1/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1295,1644,26.9,Over
+1/1/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,603,831,37.8,Over
+1/1/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,612,546,10.8,Under
+1/1/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1242,1379,11,Over
+1/1/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1515,1348,11,Under
+1/1/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1590,2101,32.1,Over
+1/1/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1261,1442,14.4,Over
+1/1/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1529,1231,19.5,Under
+1/1/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1361,864,36.5,Under
+1/1/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1350,1625,20.4,Over
+1/1/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1210,1110,8.3,Under
+1/1/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,858,658,23.3,Under
+1/1/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,941,1103,17.2,Over
+1/1/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1249,896,28.3,Under
+1/1/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1249,1136,9,Under
+1/1/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1166,1553,33.2,Over
+1/1/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1050,1239,18,Over
+1/1/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1280,1475,15.2,Over
+1/1/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,794,583,26.6,Under
+1/1/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,505,666,31.9,Over
+1/1/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,663,423,36.2,Under
+1/1/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,755,603,20.1,Under
+1/1/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,724,571,21.1,Under
+1/8/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,658,810,23.1,Over
+1/8/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1202,1602,33.3,Over
+1/8/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,932,623,33.2,Under
+1/8/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1060,910,14.2,Under
+1/8/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1295,1403,8.3,Over
+1/8/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,713,775,8.7,Over
+1/8/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,561,419,25.3,Under
+1/8/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,667,917,37.5,Over
+1/8/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1133,1287,13.6,Over
+1/8/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,854,998,16.9,Over
+1/8/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,902,1170,29.7,Over
+1/8/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1174,1539,31.1,Over
+1/8/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,963,861,10.6,Under
+1/8/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,447,568,27.1,Over
+1/8/2024,D003,Heartland Meats,P003,Ground Beef,Meat,611,680,11.3,Over
+1/8/2024,D003,Heartland Meats,P004,Tomatoes,Produce,651,578,11.2,Under
+1/8/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,769,686,10.8,Under
+1/8/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1140,736,35.4,Under
+1/8/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,606,468,22.8,Under
+1/8/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,550,674,22.5,Over
+1/8/2024,D004,Southwest Organics,P003,Ground Beef,Meat,830,592,28.7,Under
+1/8/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1042,760,27.1,Under
+1/8/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,729,631,13.4,Under
+1/8/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,765,977,27.7,Over
+1/8/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,464,410,11.6,Under
+1/8/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1110,1359,22.4,Over
+1/8/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1519,1642,8.1,Over
+1/8/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,921,591,35.8,Under
+1/8/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,460,570,23.9,Over
+1/8/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,712,608,14.6,Under
+1/15/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,844,769,8.9,Under
+1/15/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,570,740,29.8,Over
+1/15/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,948,794,16.2,Under
+1/15/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,588,696,18.4,Over
+1/15/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1002,1222,22,Over
+1/15/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1293,990,23.4,Under
+1/15/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,795,671,15.6,Under
+1/15/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,975,615,36.9,Under
+1/15/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1038,903,13,Under
+1/15/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1399,1105,21,Under
+1/15/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,956,1266,32.4,Over
+1/15/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1184,1431,20.9,Over
+1/15/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1165,1572,34.9,Over
+1/15/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1320,1148,13,Under
+1/15/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1447,1221,15.6,Under
+1/15/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1486,1210,18.6,Under
+1/15/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,768,520,32.3,Under
+1/15/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,780,633,18.8,Under
+1/15/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1161,1383,19.1,Over
+1/15/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,650,703,8.2,Over
+1/15/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1073,1227,14.4,Over
+1/15/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1058,1427,34.9,Over
+1/15/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1189,992,16.6,Under
+1/15/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,845,751,11.1,Under
+1/15/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,553,692,25.1,Over
+1/15/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1291,1064,17.6,Under
+1/15/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,803,726,9.6,Under
+1/15/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,495,308,37.8,Under
+1/15/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,654,795,21.6,Over
+1/15/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,1184,1005,15.1,Under
+1/22/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,436,555,27.3,Over
+1/22/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,409,264,35.5,Under
+1/22/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1224,1335,9.1,Over
+1/22/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1480,1615,9.1,Over
+1/22/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,542,661,22,Over
+1/22/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1250,878,29.8,Under
+1/22/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1108,1329,19.9,Over
+1/22/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1041,803,22.9,Under
+1/22/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1011,718,29,Under
+1/22/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,648,863,33.2,Over
+1/22/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,610,555,9,Under
+1/22/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,421,472,12.1,Over
+1/22/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1292,1100,14.9,Under
+1/22/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1155,1530,32.5,Over
+1/22/2024,D003,Heartland Meats,P003,Ground Beef,Meat,410,557,35.9,Over
+1/22/2024,D003,Heartland Meats,P004,Tomatoes,Produce,931,609,34.6,Under
+1/22/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,498,316,36.5,Under
+1/22/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1074,1381,28.6,Over
+1/22/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1177,987,16.1,Under
+1/22/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,682,508,25.5,Under
+1/22/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1053,1409,33.8,Over
+1/22/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1246,1583,27,Over
+1/22/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1468,1817,23.8,Over
+1/22/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1403,879,37.3,Under
+1/22/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1388,1182,14.8,Under
+1/22/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1006,710,29.4,Under
+1/22/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,896,1144,27.7,Over
+1/22/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,821,584,28.9,Under
+1/22/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1412,1273,9.8,Under
+1/22/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,842,656,22.1,Under
+1/29/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,1398,1242,11.2,Under
+1/29/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1480,1133,23.4,Under
+1/29/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1038,1341,29.2,Over
+1/29/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1433,1272,11.2,Under
+1/29/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1144,920,19.6,Under
+1/29/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1451,1246,14.1,Under
+1/29/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,540,451,16.5,Under
+1/29/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1029,1405,36.5,Over
+1/29/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,609,684,12.3,Over
+1/29/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,625,720,15.2,Over
+1/29/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,783,657,16.1,Under
+1/29/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1487,1166,21.6,Under
+1/29/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1527,1366,10.5,Under
+1/29/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,708,567,19.9,Under
+1/29/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1083,979,9.6,Under
+1/29/2024,D003,Heartland Meats,P004,Tomatoes,Produce,600,543,9.5,Under
+1/29/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1265,1090,13.8,Under
+1/29/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,761,957,25.8,Over
+1/29/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1410,1077,23.6,Under
+1/29/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,502,639,27.3,Over
+1/29/2024,D004,Southwest Organics,P003,Ground Beef,Meat,849,946,11.4,Over
+1/29/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1578,1325,16,Under
+1/29/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,606,704,16.2,Over
+1/29/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1228,985,19.8,Under
+1/29/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,949,732,22.9,Under
+1/29/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,816,665,18.5,Under
+1/29/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,989,692,30,Under
+1/29/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1430,1933,35.2,Over
+1/29/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1025,1369,33.6,Over
+1/29/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,748,617,17.5,Under
+2/5/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,783,642,18,Under
+2/5/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,426,306,28.2,Under
+2/5/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,442,383,13.3,Under
+2/5/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,557,630,13.1,Over
+2/5/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,419,527,25.8,Over
+2/5/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1594,1722,8,Over
+2/5/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1367,1521,11.3,Over
+2/5/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1561,1117,28.4,Under
+2/5/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,867,661,23.8,Under
+2/5/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,700,481,31.3,Under
+2/5/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1087,1321,21.5,Over
+2/5/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1517,1278,15.8,Under
+2/5/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1146,1395,21.7,Over
+2/5/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1016,1313,29.2,Over
+2/5/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1391,1549,11.4,Over
+2/5/2024,D003,Heartland Meats,P004,Tomatoes,Produce,442,387,12.4,Under
+2/5/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,851,614,27.8,Under
+2/5/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1419,1545,8.9,Over
+2/5/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1282,1522,18.7,Over
+2/5/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,796,512,35.7,Under
+2/5/2024,D004,Southwest Organics,P003,Ground Beef,Meat,621,850,36.9,Over
+2/5/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1515,985,35,Under
+2/5/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1479,1674,13.2,Over
+2/5/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1114,728,34.6,Under
+2/5/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1254,798,36.4,Under
+2/5/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,790,862,9.1,Over
+2/5/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1103,738,33.1,Under
+2/5/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1331,1663,24.9,Over
+2/5/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1110,1294,16.6,Over
+2/5/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,1421,912,35.8,Under
+2/12/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,707,539,23.8,Under
+2/12/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1543,1112,27.9,Under
+2/12/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,990,891,10,Under
+2/12/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1329,1206,9.3,Under
+2/12/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,652,589,9.7,Under
+2/12/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1281,1518,18.5,Over
+2/12/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,502,423,15.7,Under
+2/12/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,980,1289,31.5,Over
+2/12/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1548,1352,12.7,Under
+2/12/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,954,1071,12.3,Over
+2/12/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1284,955,25.6,Under
+2/12/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,848,924,9,Over
+2/12/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,909,1203,32.3,Over
+2/12/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1265,1517,19.9,Over
+2/12/2024,D003,Heartland Meats,P003,Ground Beef,Meat,935,1267,35.5,Over
+2/12/2024,D003,Heartland Meats,P004,Tomatoes,Produce,754,941,24.8,Over
+2/12/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1060,719,32.2,Under
+2/12/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,808,682,15.6,Under
+2/12/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,808,670,17.1,Under
+2/12/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,1560,1001,35.8,Under
+2/12/2024,D004,Southwest Organics,P003,Ground Beef,Meat,775,924,19.2,Over
+2/12/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1294,1434,10.8,Over
+2/12/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1041,1281,23.1,Over
+2/12/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1132,882,22.1,Under
+2/12/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1261,796,36.9,Under
+2/12/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1544,1679,8.7,Over
+2/12/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,581,759,30.6,Over
+2/12/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1019,1340,31.5,Over
+2/12/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1164,1301,11.8,Over
+2/12/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,1558,1023,34.3,Under
+2/19/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,1204,1345,11.7,Over
+2/19/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1347,1781,32.2,Over
+2/19/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1342,896,33.2,Under
+2/19/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,953,1266,32.8,Over
+2/19/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1082,1361,25.8,Over
+2/19/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1558,1208,22.5,Under
+2/19/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,524,585,11.6,Over
+2/19/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1446,1009,30.2,Under
+2/19/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,819,1011,23.4,Over
+2/19/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1414,1584,12,Over
+2/19/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,716,594,17,Under
+2/19/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,413,545,32,Over
+2/19/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,811,718,11.5,Under
+2/19/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,647,494,23.6,Under
+2/19/2024,D003,Heartland Meats,P003,Ground Beef,Meat,612,747,22.1,Over
+2/19/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1308,1565,19.6,Over
+2/19/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1014,1218,20.1,Over
+2/19/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,881,1173,33.1,Over
+2/19/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1299,1737,33.7,Over
+2/19/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,1285,1125,12.5,Under
+2/19/2024,D004,Southwest Organics,P003,Ground Beef,Meat,690,914,32.5,Over
+2/19/2024,D004,Southwest Organics,P004,Tomatoes,Produce,749,923,23.2,Over
+2/19/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,810,629,22.3,Under
+2/19/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,604,381,36.9,Under
+2/19/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,963,1153,19.7,Over
+2/19/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,619,754,21.8,Over
+2/19/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,703,640,9,Under
+2/19/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1555,1861,19.7,Over
+2/19/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,469,597,27.3,Over
+2/19/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,1310,1431,9.2,Over
+2/26/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,685,835,21.9,Over
+2/26/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,967,886,8.4,Under
+2/26/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1425,1904,33.6,Over
+2/26/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1114,1504,35,Over
+2/26/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1450,1593,9.9,Over
+2/26/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1120,1429,27.6,Over
+2/26/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1341,1735,29.4,Over
+2/26/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,970,1276,31.5,Over
+2/26/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1206,1327,10,Over
+2/26/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1390,1121,19.4,Under
+2/26/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,769,963,25.2,Over
+2/26/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1476,1708,15.7,Over
+2/26/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1589,1882,18.4,Over
+2/26/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1226,1103,10,Under
+2/26/2024,D003,Heartland Meats,P003,Ground Beef,Meat,725,833,14.9,Over
+2/26/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1422,909,36.1,Under
+2/26/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,874,1201,37.4,Over
+2/26/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,884,982,11.1,Over
+2/26/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1186,822,30.7,Under
+2/26/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,531,478,10,Under
+2/26/2024,D004,Southwest Organics,P003,Ground Beef,Meat,476,316,33.6,Under
+2/26/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1166,1471,26.2,Over
+2/26/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,756,889,17.6,Over
+2/26/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1173,1313,11.9,Over
+2/26/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1539,1323,14,Under
+2/26/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1296,928,28.4,Under
+2/26/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,731,884,20.9,Over
+2/26/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,793,709,10.6,Under
+2/26/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,597,681,14.1,Over
+2/26/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,410,332,19,Under
+3/4/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,1519,1003,34,Under
+3/4/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1481,1819,22.8,Over
+3/4/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1568,2082,32.8,Over
+3/4/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1130,1430,26.5,Over
+3/4/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,682,463,32.1,Under
+3/4/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1170,1570,34.2,Over
+3/4/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,660,452,31.5,Under
+3/4/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,641,493,23.1,Under
+3/4/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1507,1236,18,Under
+3/4/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,993,638,35.8,Under
+3/4/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1132,1245,10,Over
+3/4/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,989,1090,10.2,Over
+3/4/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1460,1984,35.9,Over
+3/4/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1217,1540,26.5,Over
+3/4/2024,D003,Heartland Meats,P003,Ground Beef,Meat,627,786,25.4,Over
+3/4/2024,D003,Heartland Meats,P004,Tomatoes,Produce,938,679,27.6,Under
+3/4/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1263,1063,15.8,Under
+3/4/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,521,584,12.1,Over
+3/4/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1075,1459,35.7,Over
+3/4/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,527,447,15.2,Under
+3/4/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1554,2099,35.1,Over
+3/4/2024,D004,Southwest Organics,P004,Tomatoes,Produce,472,385,18.4,Under
+3/4/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1252,1576,25.9,Over
+3/4/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,565,369,34.7,Under
+3/4/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,665,557,16.2,Under
+3/4/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,472,363,23.1,Under
+3/4/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1117,883,20.9,Under
+3/4/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,866,791,8.7,Under
+3/4/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,801,993,24,Over
+3/4/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,437,329,24.7,Under
+3/11/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,1172,833,28.9,Under
+3/11/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1274,962,24.5,Under
+3/11/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,641,864,34.8,Over
+3/11/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1153,939,18.6,Under
+3/11/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,518,439,15.3,Under
+3/11/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,420,482,14.8,Over
+3/11/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1498,1873,25,Over
+3/11/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,430,282,34.4,Under
+3/11/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,516,462,10.5,Under
+3/11/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,769,642,16.5,Under
+3/11/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,900,558,38,Under
+3/11/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1214,942,22.4,Under
+3/11/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,557,614,10.2,Over
+3/11/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,821,1008,22.8,Over
+3/11/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1131,1526,34.9,Over
+3/11/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1308,1692,29.4,Over
+3/11/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1529,1785,16.7,Over
+3/11/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1478,963,34.8,Under
+3/11/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1508,1159,23.1,Under
+3/11/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,1241,1602,29.1,Over
+3/11/2024,D004,Southwest Organics,P003,Ground Beef,Meat,972,1072,10.3,Over
+3/11/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1466,1684,14.9,Over
+3/11/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,831,928,11.7,Over
+3/11/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,690,627,9.1,Under
+3/11/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1301,943,27.5,Under
+3/11/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,633,687,8.5,Over
+3/11/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,953,797,16.4,Under
+3/11/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,573,629,9.8,Over
+3/11/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1186,1457,22.8,Over
+3/11/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,1187,933,21.4,Under
+3/18/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,1176,1016,13.6,Under
+3/18/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,507,365,28,Under
+3/18/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1112,1513,36.1,Over
+3/18/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1088,1476,35.7,Over
+3/18/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,843,584,30.7,Under
+3/18/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1288,1725,33.9,Over
+3/18/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,516,682,32.2,Over
+3/18/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,988,1321,33.7,Over
+3/18/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1349,1628,20.7,Over
+3/18/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1462,1693,15.8,Over
+3/18/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1357,1769,30.4,Over
+3/18/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,670,433,35.4,Under
+3/18/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,961,859,10.6,Under
+3/18/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1511,1765,16.8,Over
+3/18/2024,D003,Heartland Meats,P003,Ground Beef,Meat,479,352,26.5,Under
+3/18/2024,D003,Heartland Meats,P004,Tomatoes,Produce,913,1200,31.4,Over
+3/18/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,425,474,11.5,Over
+3/18/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1057,1406,33,Over
+3/18/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1308,1021,21.9,Under
+3/18/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,1355,1231,9.2,Under
+3/18/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1539,1315,14.6,Under
+3/18/2024,D004,Southwest Organics,P004,Tomatoes,Produce,562,653,16.2,Over
+3/18/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1043,661,36.6,Under
+3/18/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,928,640,31,Under
+3/18/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1413,1579,11.7,Over
+3/18/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,700,938,34,Over
+3/18/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,876,775,11.5,Under
+3/18/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1437,1922,33.8,Over
+3/18/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,485,365,24.7,Under
+3/18/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,930,583,37.3,Under
+3/25/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,1123,851,24.2,Under
+3/25/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,880,717,18.5,Under
+3/25/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1308,1158,11.5,Under
+3/25/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,817,671,17.9,Under
+3/25/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1251,1124,10.2,Under
+3/25/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,979,858,12.4,Under
+3/25/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1137,931,18.1,Under
+3/25/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1167,1425,22.1,Over
+3/25/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,463,403,13,Under
+3/25/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,707,457,35.4,Under
+3/25/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,833,1101,32.2,Over
+3/25/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1440,1893,31.5,Over
+3/25/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,840,1002,19.3,Over
+3/25/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,707,844,19.4,Over
+3/25/2024,D003,Heartland Meats,P003,Ground Beef,Meat,560,765,36.6,Over
+3/25/2024,D003,Heartland Meats,P004,Tomatoes,Produce,859,1073,24.9,Over
+3/25/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1522,1978,30,Over
+3/25/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,648,864,33.3,Over
+3/25/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,505,637,26.1,Over
+3/25/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,1465,1153,21.3,Under
+3/25/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1578,1313,16.8,Under
+3/25/2024,D004,Southwest Organics,P004,Tomatoes,Produce,897,1183,31.9,Over
+3/25/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,872,1061,21.7,Over
+3/25/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,636,452,28.9,Under
+3/25/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1239,1005,18.9,Under
+3/25/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1435,1287,10.3,Under
+3/25/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1391,1027,26.2,Under
+3/25/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1257,1444,14.9,Over
+3/25/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,656,421,35.8,Under
+3/25/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,1234,1582,28.2,Over
+4/1/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,933,635,31.9,Under
+4/1/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,641,574,10.5,Under
+4/1/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,703,880,25.2,Over
+4/1/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,805,1086,34.9,Over
+4/1/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,431,374,13.2,Under
+4/1/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1535,1084,29.4,Under
+4/1/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,606,534,11.9,Under
+4/1/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1283,1171,8.7,Under
+4/1/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,549,614,11.8,Over
+4/1/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1194,774,35.2,Under
+4/1/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1223,869,28.9,Under
+4/1/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1000,1115,11.5,Over
+4/1/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1089,1369,25.7,Over
+4/1/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,492,542,10.2,Over
+4/1/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1319,1784,35.3,Over
+4/1/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1292,1076,16.7,Under
+4/1/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,675,877,29.9,Over
+4/1/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1443,1594,10.5,Over
+4/1/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1157,830,28.3,Under
+4/1/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,1056,1279,21.1,Over
+4/1/2024,D004,Southwest Organics,P003,Ground Beef,Meat,972,618,36.4,Under
+4/1/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1008,778,22.8,Under
+4/1/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1460,1969,34.9,Over
+4/1/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1273,1062,16.6,Under
+4/1/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,765,484,36.7,Under
+4/1/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,831,657,20.9,Under
+4/1/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1043,928,11,Under
+4/1/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,642,535,16.7,Under
+4/1/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,858,561,34.6,Under
+4/1/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,931,1281,37.6,Over
+4/8/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,874,629,28,Under
+4/8/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,823,1025,24.5,Over
+4/8/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,745,810,8.7,Over
+4/8/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1505,1141,24.2,Under
+4/8/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1400,938,33,Under
+4/8/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,816,950,16.4,Over
+4/8/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1273,1654,29.9,Over
+4/8/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1329,1105,16.9,Under
+4/8/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,645,507,21.4,Under
+4/8/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,938,838,10.7,Under
+4/8/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,970,679,30,Under
+4/8/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1124,1484,32,Over
+4/8/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,855,600,29.8,Under
+4/8/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1438,1178,18.1,Under
+4/8/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1450,1041,28.2,Under
+4/8/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1044,681,34.8,Under
+4/8/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,605,822,35.9,Over
+4/8/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1050,1193,13.6,Over
+4/8/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,472,644,36.4,Over
+4/8/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,903,793,12.2,Under
+4/8/2024,D004,Southwest Organics,P003,Ground Beef,Meat,850,610,28.2,Under
+4/8/2024,D004,Southwest Organics,P004,Tomatoes,Produce,710,549,22.7,Under
+4/8/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1417,1183,16.5,Under
+4/8/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,581,793,36.5,Over
+4/8/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,838,770,8.1,Under
+4/8/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1542,1948,26.3,Over
+4/8/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,479,380,20.7,Under
+4/8/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1178,860,27,Under
+4/8/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1114,1364,22.4,Over
+4/8/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,768,1031,34.2,Over
+4/15/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,998,718,28.1,Under
+4/15/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1203,1515,25.9,Over
+4/15/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1005,895,10.9,Under
+4/15/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,988,784,20.6,Under
+4/15/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,906,653,27.9,Under
+4/15/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1351,1846,36.6,Over
+4/15/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1111,1432,28.9,Over
+4/15/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1390,1851,33.2,Over
+4/15/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1243,887,28.6,Under
+4/15/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,948,1168,23.2,Over
+4/15/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1237,1358,9.8,Over
+4/15/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,935,670,28.3,Under
+4/15/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1305,1034,20.8,Under
+4/15/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,511,593,16,Over
+4/15/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1095,798,27.1,Under
+4/15/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1316,1583,20.3,Over
+4/15/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,741,919,24,Over
+4/15/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,625,852,36.3,Over
+4/15/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1075,1202,11.8,Over
+4/15/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,443,300,32.3,Under
+4/15/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1082,1464,35.3,Over
+4/15/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1532,1380,9.9,Under
+4/15/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,831,674,18.9,Under
+4/15/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,721,482,33.1,Under
+4/15/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,869,723,16.8,Under
+4/15/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1165,955,18,Under
+4/15/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,909,579,36.3,Under
+4/15/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,441,576,30.6,Over
+4/15/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1427,1142,20,Under
+4/15/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,721,602,16.5,Under
+4/22/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,906,987,8.9,Over
+4/22/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1173,848,27.7,Under
+4/22/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,952,629,33.9,Under
+4/22/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1433,1858,29.7,Over
+4/22/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1250,1357,8.6,Over
+4/22/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1509,1114,26.2,Under
+4/22/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1201,1367,13.8,Over
+4/22/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1039,711,31.6,Under
+4/22/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,447,370,17.2,Under
+4/22/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,604,700,15.9,Over
+4/22/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1365,1101,19.3,Under
+4/22/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,855,1171,37,Over
+4/22/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1389,1618,16.5,Over
+4/22/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1437,1216,15.4,Under
+4/22/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1417,1839,29.8,Over
+4/22/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1519,1071,29.5,Under
+4/22/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1583,993,37.3,Under
+4/22/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,875,687,21.5,Under
+4/22/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,623,453,27.3,Under
+4/22/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,571,508,11,Under
+4/22/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1403,1040,25.9,Under
+4/22/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1225,900,26.5,Under
+4/22/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1560,1079,30.8,Under
+4/22/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1410,1190,15.6,Under
+4/22/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1091,730,33.1,Under
+4/22/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1557,1961,25.9,Over
+4/22/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,949,1221,28.7,Over
+4/22/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1400,1058,24.4,Under
+4/22/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,882,1037,17.6,Over
+4/22/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,1453,1811,24.6,Over
+4/29/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,566,364,35.7,Under
+4/29/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,558,665,19.2,Over
+4/29/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,731,558,23.7,Under
+4/29/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,804,973,21,Over
+4/29/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,479,313,34.7,Under
+4/29/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1474,1807,22.6,Over
+4/29/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1520,1207,20.6,Under
+4/29/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,640,505,21.1,Under
+4/29/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,955,1181,23.7,Over
+4/29/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1161,871,25,Under
+4/29/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,994,758,23.7,Under
+4/29/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1160,886,23.6,Under
+4/29/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1347,1154,14.3,Under
+4/29/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,677,764,12.9,Over
+4/29/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1370,1256,8.3,Under
+4/29/2024,D003,Heartland Meats,P004,Tomatoes,Produce,707,863,22.1,Over
+4/29/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,411,339,17.5,Under
+4/29/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,592,449,24.2,Under
+4/29/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,525,665,26.7,Over
+4/29/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,536,635,18.5,Over
+4/29/2024,D004,Southwest Organics,P003,Ground Beef,Meat,862,703,18.4,Under
+4/29/2024,D004,Southwest Organics,P004,Tomatoes,Produce,794,922,16.1,Over
+4/29/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1272,947,25.6,Under
+4/29/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1225,1666,36,Over
+4/29/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,814,729,10.4,Under
+4/29/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,843,704,16.5,Under
+4/29/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,609,680,11.7,Over
+4/29/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1184,1395,17.8,Over
+4/29/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,967,1324,36.9,Over
+4/29/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,1369,1173,14.3,Under
+5/6/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,874,544,37.8,Under
+5/6/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,700,613,12.4,Under
+5/6/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,400,470,17.5,Over
+5/6/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,506,567,12.1,Over
+5/6/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1271,915,28,Under
+5/6/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1424,985,30.8,Under
+5/6/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1205,972,19.3,Under
+5/6/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1371,1626,18.6,Over
+5/6/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1049,1299,23.8,Over
+5/6/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,838,1145,36.6,Over
+5/6/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,968,1252,29.3,Over
+5/6/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1547,1875,21.2,Over
+5/6/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,913,1173,28.5,Over
+5/6/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1291,935,27.6,Under
+5/6/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1148,1534,33.6,Over
+5/6/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1108,777,29.9,Under
+5/6/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1546,2076,34.3,Over
+5/6/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,791,636,19.6,Under
+5/6/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,421,362,14,Under
+5/6/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,799,733,8.3,Under
+5/6/2024,D004,Southwest Organics,P003,Ground Beef,Meat,592,801,35.3,Over
+5/6/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1429,1938,35.6,Over
+5/6/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,468,596,27.4,Over
+5/6/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1215,1328,9.3,Over
+5/6/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,918,769,16.2,Under
+5/6/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1571,2084,32.7,Over
+5/6/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1364,1881,37.9,Over
+5/6/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1404,1589,13.2,Over
+5/6/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1517,1028,32.2,Under
+5/6/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,459,580,26.4,Over
+5/13/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,762,501,34.3,Under
+5/13/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1259,843,33,Under
+5/13/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1308,953,27.1,Under
+5/13/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,599,396,33.9,Under
+5/13/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,797,1017,27.6,Over
+5/13/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1081,1439,33.1,Over
+5/13/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1048,681,35,Under
+5/13/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1150,1420,23.5,Over
+5/13/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1225,1476,20.5,Over
+5/13/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,525,577,9.9,Over
+5/13/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1427,1249,12.5,Under
+5/13/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,753,592,21.4,Under
+5/13/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,806,574,28.8,Under
+5/13/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,406,476,17.2,Over
+5/13/2024,D003,Heartland Meats,P003,Ground Beef,Meat,641,757,18.1,Over
+5/13/2024,D003,Heartland Meats,P004,Tomatoes,Produce,576,432,25,Under
+5/13/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,638,411,35.6,Under
+5/13/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,576,654,13.5,Over
+5/13/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,441,577,30.8,Over
+5/13/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,845,615,27.2,Under
+5/13/2024,D004,Southwest Organics,P003,Ground Beef,Meat,905,1060,17.1,Over
+5/13/2024,D004,Southwest Organics,P004,Tomatoes,Produce,791,1031,30.3,Over
+5/13/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1035,1134,9.6,Over
+5/13/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,764,889,16.4,Over
+5/13/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1247,1062,14.8,Under
+5/13/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,808,700,13.4,Under
+5/13/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1300,1092,16,Under
+5/13/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1585,1884,18.9,Over
+5/13/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1471,1787,21.5,Over
+5/13/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,749,817,9.1,Over
+5/20/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,1189,1339,12.6,Over
+5/20/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1288,1525,18.4,Over
+5/20/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,991,1131,14.1,Over
+5/20/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1431,1782,24.5,Over
+5/20/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,950,1051,10.6,Over
+5/20/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,928,792,14.7,Under
+5/20/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,636,785,23.4,Over
+5/20/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1373,1540,12.2,Over
+5/20/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1162,1451,24.9,Over
+5/20/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,469,386,17.7,Under
+5/20/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1134,747,34.1,Under
+5/20/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1263,981,22.3,Under
+5/20/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,605,522,13.7,Under
+5/20/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,733,571,22.1,Under
+5/20/2024,D003,Heartland Meats,P003,Ground Beef,Meat,444,537,20.9,Over
+5/20/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1579,2034,28.8,Over
+5/20/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1369,916,33.1,Under
+5/20/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1164,861,26,Under
+5/20/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1221,1428,17,Over
+5/20/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,879,1150,30.8,Over
+5/20/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1438,1276,11.3,Under
+5/20/2024,D004,Southwest Organics,P004,Tomatoes,Produce,951,602,36.7,Under
+5/20/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,458,398,13.1,Under
+5/20/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1015,1366,34.6,Over
+5/20/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1473,1678,13.9,Over
+5/20/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,685,603,12,Under
+5/20/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,510,320,37.3,Under
+5/20/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,689,468,32.1,Under
+5/20/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,738,899,21.8,Over
+5/20/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,810,530,34.6,Under
+5/27/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,564,640,13.5,Over
+5/27/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1294,1155,10.7,Under
+5/27/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1537,1024,33.4,Under
+5/27/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1377,1201,12.8,Under
+5/27/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1526,1962,28.6,Over
+5/27/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1367,1750,28,Over
+5/27/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,897,619,31,Under
+5/27/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,663,779,17.5,Over
+5/27/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1218,1597,31.1,Over
+5/27/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1269,1597,25.8,Over
+5/27/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1110,1361,22.6,Over
+5/27/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,455,521,14.5,Over
+5/27/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,881,712,19.2,Under
+5/27/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,403,509,26.3,Over
+5/27/2024,D003,Heartland Meats,P003,Ground Beef,Meat,558,405,27.4,Under
+5/27/2024,D003,Heartland Meats,P004,Tomatoes,Produce,784,710,9.4,Under
+5/27/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,590,697,18.1,Over
+5/27/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1271,1111,12.6,Under
+5/27/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1384,1509,9,Over
+5/27/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,1263,1093,13.5,Under
+5/27/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1459,977,33,Under
+5/27/2024,D004,Southwest Organics,P004,Tomatoes,Produce,569,673,18.3,Over
+5/27/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,1228,833,32.2,Under
+5/27/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1053,1177,11.8,Over
+5/27/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1331,1442,8.3,Over
+5/27/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1222,969,20.7,Under
+5/27/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1270,1470,15.7,Over
+5/27/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1322,1626,23,Over
+5/27/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1086,1447,33.2,Over
+5/27/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,628,826,31.5,Over
+6/3/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,1488,1946,30.8,Over
+6/3/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,563,492,12.6,Under
+6/3/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,928,1057,13.9,Over
+6/3/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1331,1050,21.1,Under
+6/3/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,481,424,11.9,Under
+6/3/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1151,1260,9.5,Over
+6/3/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1156,976,15.6,Under
+6/3/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1006,694,31,Under
+6/3/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,947,820,13.4,Under
+6/3/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,435,341,21.6,Under
+6/3/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,472,349,26.1,Under
+6/3/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,474,360,24.1,Under
+6/3/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,758,678,10.6,Under
+6/3/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,696,508,27,Under
+6/3/2024,D003,Heartland Meats,P003,Ground Beef,Meat,962,785,18.4,Under
+6/3/2024,D003,Heartland Meats,P004,Tomatoes,Produce,899,1218,35.5,Over
+6/3/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1472,1102,25.1,Under
+6/3/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1068,863,19.2,Under
+6/3/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,607,725,19.4,Over
+6/3/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,561,662,18,Over
+6/3/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1018,807,20.7,Under
+6/3/2024,D004,Southwest Organics,P004,Tomatoes,Produce,926,1200,29.6,Over
+6/3/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,562,375,33.3,Under
+6/3/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,638,840,31.7,Over
+6/3/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1020,1289,26.4,Over
+6/3/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,899,639,28.9,Under
+6/3/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1574,1923,22.2,Over
+6/3/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1294,1504,16.2,Over
+6/3/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,780,907,16.3,Over
+6/3/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,1216,1645,35.3,Over
+6/10/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,958,879,8.2,Under
+6/10/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1248,902,27.7,Under
+6/10/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,1347,1696,25.9,Over
+6/10/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1051,936,10.9,Under
+6/10/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1064,1219,14.6,Over
+6/10/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,1343,1687,25.6,Over
+6/10/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,1073,812,24.3,Under
+6/10/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1542,1412,8.4,Under
+6/10/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1109,746,32.7,Under
+6/10/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1421,1624,14.3,Over
+6/10/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1198,1010,15.7,Under
+6/10/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,1570,2151,37,Over
+6/10/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1549,967,37.6,Under
+6/10/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,1484,1200,19.1,Under
+6/10/2024,D003,Heartland Meats,P003,Ground Beef,Meat,1045,819,21.6,Under
+6/10/2024,D003,Heartland Meats,P004,Tomatoes,Produce,719,526,26.8,Under
+6/10/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1120,840,25,Under
+6/10/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,447,310,30.6,Under
+6/10/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1405,875,37.7,Under
+6/10/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,1500,1679,11.9,Over
+6/10/2024,D004,Southwest Organics,P003,Ground Beef,Meat,652,580,11,Under
+6/10/2024,D004,Southwest Organics,P004,Tomatoes,Produce,626,468,25.2,Under
+6/10/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,725,949,30.9,Over
+6/10/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1221,921,24.6,Under
+6/10/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,845,1018,20.5,Over
+6/10/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,1054,1381,31,Over
+6/10/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1050,1292,23,Over
+6/10/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,861,570,33.8,Under
+6/10/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1350,1573,16.5,Over
+6/10/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,721,463,35.8,Under
+6/17/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,990,1070,8.1,Over
+6/17/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,1350,1723,27.6,Over
+6/17/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,601,718,19.5,Over
+6/17/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,1256,1511,20.3,Over
+6/17/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,859,963,12.1,Over
+6/17/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,564,710,25.9,Over
+6/17/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,446,366,17.9,Under
+6/17/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,1565,1983,26.7,Over
+6/17/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,1158,1258,8.6,Over
+6/17/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1197,1491,24.6,Over
+6/17/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,730,888,21.6,Over
+6/17/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,890,1007,13.1,Over
+6/17/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,809,665,17.8,Under
+6/17/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,463,397,14.3,Under
+6/17/2024,D003,Heartland Meats,P003,Ground Beef,Meat,901,644,28.5,Under
+6/17/2024,D003,Heartland Meats,P004,Tomatoes,Produce,895,1180,31.8,Over
+6/17/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,1424,1811,27.2,Over
+6/17/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1078,1446,34.1,Over
+6/17/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,901,1098,21.9,Over
+6/17/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,414,540,30.4,Over
+6/17/2024,D004,Southwest Organics,P003,Ground Beef,Meat,1232,1651,34,Over
+6/17/2024,D004,Southwest Organics,P004,Tomatoes,Produce,1189,1068,10.2,Under
+6/17/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,932,1253,34.4,Over
+6/17/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,1493,1053,29.5,Under
+6/17/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,522,434,16.9,Under
+6/17/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,481,571,18.7,Over
+6/17/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1447,1058,26.9,Under
+6/17/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,654,726,11,Over
+6/17/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,1587,1101,30.6,Under
+6/17/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,746,887,18.9,Over
+6/24/2024,D001,Green Valley Produce,P001,Leafy Greens,Produce,690,934,35.4,Over
+6/24/2024,D001,Green Valley Produce,P002,Whole Milk,Dairy,830,697,16,Under
+6/24/2024,D001,Green Valley Produce,P003,Ground Beef,Meat,551,670,21.6,Over
+6/24/2024,D001,Green Valley Produce,P004,Tomatoes,Produce,901,624,30.7,Under
+6/24/2024,D001,Green Valley Produce,P005,Cheddar Cheese,Dairy,1310,1075,17.9,Under
+6/24/2024,D001,Green Valley Produce,P006,Chicken Breast,Meat,928,1160,25,Over
+6/24/2024,D002,Fresh Coast Foods,P001,Leafy Greens,Produce,686,600,12.5,Under
+6/24/2024,D002,Fresh Coast Foods,P002,Whole Milk,Dairy,852,1145,34.4,Over
+6/24/2024,D002,Fresh Coast Foods,P003,Ground Beef,Meat,996,1167,17.2,Over
+6/24/2024,D002,Fresh Coast Foods,P004,Tomatoes,Produce,1562,1139,27.1,Under
+6/24/2024,D002,Fresh Coast Foods,P005,Cheddar Cheese,Dairy,1300,933,28.2,Under
+6/24/2024,D002,Fresh Coast Foods,P006,Chicken Breast,Meat,663,580,12.5,Under
+6/24/2024,D003,Heartland Meats,P001,Leafy Greens,Produce,1186,999,15.8,Under
+6/24/2024,D003,Heartland Meats,P002,Whole Milk,Dairy,833,620,25.6,Under
+6/24/2024,D003,Heartland Meats,P003,Ground Beef,Meat,424,490,15.6,Over
+6/24/2024,D003,Heartland Meats,P004,Tomatoes,Produce,1458,1752,20.2,Over
+6/24/2024,D003,Heartland Meats,P005,Cheddar Cheese,Dairy,748,1026,37.2,Over
+6/24/2024,D003,Heartland Meats,P006,Chicken Breast,Meat,1426,1177,17.5,Under
+6/24/2024,D004,Southwest Organics,P001,Leafy Greens,Produce,1393,1775,27.4,Over
+6/24/2024,D004,Southwest Organics,P002,Whole Milk,Dairy,1387,1570,13.2,Over
+6/24/2024,D004,Southwest Organics,P003,Ground Beef,Meat,429,308,28.2,Under
+6/24/2024,D004,Southwest Organics,P004,Tomatoes,Produce,860,711,17.3,Under
+6/24/2024,D004,Southwest Organics,P005,Cheddar Cheese,Dairy,969,1223,26.2,Over
+6/24/2024,D004,Southwest Organics,P006,Chicken Breast,Meat,644,466,27.6,Under
+6/24/2024,D005,Great Lakes Dairy,P001,Leafy Greens,Produce,1340,1676,25.1,Over
+6/24/2024,D005,Great Lakes Dairy,P002,Whole Milk,Dairy,424,564,33,Over
+6/24/2024,D005,Great Lakes Dairy,P003,Ground Beef,Meat,1473,1987,34.9,Over
+6/24/2024,D005,Great Lakes Dairy,P004,Tomatoes,Produce,1144,824,28,Under
+6/24/2024,D005,Great Lakes Dairy,P005,Cheddar Cheese,Dairy,602,822,36.5,Over
+6/24/2024,D005,Great Lakes Dairy,P006,Chicken Breast,Meat,955,1189,24.5,Over
